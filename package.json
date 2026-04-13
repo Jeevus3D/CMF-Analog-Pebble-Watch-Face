@@ -1,0 +1,46 @@
+{
+    "author": "beefeeny",
+    "dependencies": {},
+    "keywords": [],
+    "name": "cmf-analog",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable",
+            "health"
+        ],
+        "displayName": "CMF Analog",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "REQUEST_WEATHER",
+            "TEMPERATURE",
+            "WEATHER_CODE"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/lcddot_tr.ttf",
+                    "name": "FONT_DOT_MATRIX_28",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery",
+            "gabbro",
+            "flint"
+        ],
+        "uuid": "603caa27-3be8-4af2-a323-ee405a134839",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
