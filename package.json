@@ -9,7 +9,7 @@
             "configurable",
             "health"
         ],
-        "displayName": "CMF Analog",
+        "displayName": "CMF Analog - PT2",
         "enableMultiJS": true,
         "messageKeys": [
             "REQUEST_WEATHER",
@@ -21,7 +21,7 @@
             "media": [
                 {
                     "file": "fonts/lcddot_tr.ttf",
-                    "name": "FONT_DOT_MATRIX_28",
+                    "name": "FONT_DOT_MATRIX_36",
                     "targetPlatforms": null,
                     "type": "font"
                 }
